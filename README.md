@@ -2,6 +2,11 @@
 # Aim
 Write a Python program for the modulation and demodulation of FSK.
 # Tools required
+Python (with NumPy and Matplotlib)
+
+Jupyter Notebook or any Python IDE
+
+Optional: Digital Oscilloscope (for hardware output)
 # Program
 ```
 import numpy as np
@@ -40,10 +45,10 @@ plt.show()
 
 ```
 # Output Waveform
-```
+
 ![FSK](https://github.com/user-attachments/assets/70eeb5f1-2e36-4316-ab9d-5ae96f18c663)
 
-```
+
 # Results
 ```
 The Python program successfully demonstrates the FSK modulation process. The modulated signal shows different frequency components corresponding to the binary input signal.
